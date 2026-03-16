@@ -40,7 +40,7 @@ I am a passionate **Software Engineer** with a strong background in building and
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[မင်းရဲ့GitHubUsername]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=soethetkhaing-tgk&show_icons=true&theme=radical)
 
 ---
 
