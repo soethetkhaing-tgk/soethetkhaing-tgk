@@ -47,3 +47,4 @@ I am a passionate **Software Engineer** with a strong background in building and
 ### 📫 How to reach me:
 - 📧 Email: soethet1@gmail.com
 - 📍 Location: Yangon, Myanmar (Open to opportunities in Singapore & Thailand)
+- 🔗 LinkedIn: [linkedin.com/in/your-profile-name](https://linkedin.com/in/soe-thet-khaing-ab145589)
